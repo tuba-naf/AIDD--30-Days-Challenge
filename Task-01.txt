@@ -1,0 +1,9 @@
+Name: Tuba Nafees
+Task 01:
+
+AI-Driven Development & Me:
+
+In my honest opinion, it is going to be a game-changer for me as a writer, researcher, manager, and of course, as a student. I have been using ChatGPT as my assistant for a very long time. It helps me a lot in my studies and saves valuable time in formatting and documentation. As a creative soul, it gives my ideas the space to materialize into productive outcomes. It will also help me bridge the gaps between my professional fields, such as biotechnology, sustainable science, and IT.
+
+Human-AI Collaboration:
+Since I have been using ChatGPT as my assistant buddy for a long time, I believe that AI is one of the greatest inventions of this century. In the near future, we will all be able to use it as our partner, and we have already started seeing the implementation of this concept in the form of Gemini CLI.
